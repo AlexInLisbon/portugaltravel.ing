@@ -210,6 +210,9 @@
 	align-items: center;
 	justify-content: center;
 }
+.excursions__namebox--lc {
+	background: #FF663A;
+}
 .excursions__namebox--belem {
 	background: #F39F18;
 }
@@ -241,6 +244,9 @@
 }
 .excursions__name--ls {
 	background-position: 79% 50%;
+}
+.excursions__name--lc {
+	font-size: 15px;
 }
 .excursions__name--tbn {
 	font-size: 16px;
