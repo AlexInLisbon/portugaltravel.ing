@@ -216,6 +216,9 @@
 .excursions__namebox--belem {
 	background: #F39F18;
 }
+.excursions__namebox--ocean {
+	background: #00A7B3;
+}
 .excursions__namebox--sintra {
 	background: #02803a;
 }
