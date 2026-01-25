@@ -155,6 +155,52 @@
 						</ul>
 					</div>
 				</div>
+
+				<!-- booking form start -->
+				<div class="exc-descript__box form__box">
+					<h3 class="exc-descript__subtitle">Заказать экскурсию или получить ответы на вопросы</h3>
+
+					<form action="https://formspree.io/f/xaqowqek" method="POST">
+
+						<!-- защита от ботов (honeypot) -->
+  						<input type="text" name="company" style="display:none">
+
+						<!-- скрытое поле с названием экскурсии -->
+						<input type="hidden" name="tour" value="Лиссабон 3 часа">
+
+						<!-- возвращение на мой сайт после отправки формы -->
+						<input type="hidden" name="_next" value="https://portugaltravel.ing/thanks.html">
+
+						<div>
+							<label for="name">Имя:</label><br>
+							<input id="name" type="text" name="name" required>
+						</div>
+
+						<div>
+							<label for="email">Email:</label><br>
+							<input id="email" type="email" name="email" required>
+						</div>
+
+						<div>
+							<label for="date">Желаемая дата:</label><br>
+							<input id="date" type="date" name="date" required>
+						</div>
+
+						<div>
+							<label for="people">Количество участников:</label><br>
+							<input id="people" type="number" name="people" min="1" required>
+						</div>
+
+						<div>
+							<label for="message">Ваше сообщение (опционально):</label><br>
+							<textarea id="message" name="message" rows="4"></textarea>
+						</div>
+
+						<button type="submit">Отправить запрос</button>
+
+					</form>
+				</div>
+				<!-- booking form end -->
 			</section>
 		</main>
 		<!-- __________________________main_________________________________ -->
