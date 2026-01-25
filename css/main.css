@@ -152,14 +152,17 @@
 	margin-bottom: 40px;
 }
 .seo-text {
-	font-size: 17px;
-	text-align: center;
+	font-size: 15px;
+	padding: 0px 10px;
 	color: #64AFFF;
 	font-weight: 500;
+	align-self: center;
+	max-width: 1250px;
+
 	margin-bottom: 20px;
 }
 .seo-text__par {
-	margin-bottom: 6px;
+	margin-bottom: 10px;
 }
 .excursions__box {
 	display: flex;
