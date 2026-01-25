@@ -45,8 +45,49 @@
 <!-- _____________________________________contacts_____________________________________ -->
 			<section class="contacts contacts__containeer">
 				<h1 class="contacts__title title">
-					Заказать экскурсию или получить ответы на возможные вопросы можно по одному из представленных ниже контактов:
+					Заказать экскурсию или получить ответы на возможные вопросы можно через форму или по одному из представленных ниже контактов:
 				</h1>
+
+								<!-- booking form start -->
+				<div class="exc-descript__box form__box">
+
+					<form action="https://formspree.io/f/xaqowqek" method="POST">
+						<!-- защита от ботов (honeypot) -->
+						<input type="text" name="company" style="display:none">
+						<!-- скрытое поле с названием экскурсии -->
+						<input type="hidden" name="tour" value="Форма страницы Контакты">
+						<!-- возвращение на мой сайт после отправки формы -->
+						<input type="hidden" name="_next" value="https://portugaltravel.ing/thanks.html">
+
+						<!-- Два столбца -->
+						<div class="form__row">
+							<div class="form__col">
+								<label for="name">Имя:</label>
+								<input id="name" type="text" name="name" required>
+
+								<label for="email">Email:</label>
+								<input id="email" type="email" name="email" required>
+
+								<label for="phone">Телефон в WhatsApp / Telegram:</label>
+								<input id="phone" type="tel" name="phone" placeholder="+999 999 999 999" pattern="[\d\s()+-]{6,20}" required>
+							</div>
+
+							<div class="form__col">
+								<label for="date">Желаемая дата:</label>
+								<input id="date" type="date" name="date" required>
+
+								<label for="people">Количество участников:</label>
+								<input id="people" type="number" name="people" min="1" required>
+							</div>
+						</div>
+
+						<label for="message">Ваше сообщение:</label>
+						<textarea id="message" name="message" rows="4"></textarea>
+
+						<button type="submit">Отправить запрос</button>
+					</form>
+				</div>
+				<!-- booking form end -->
 
 				<div class="contacts__wrapper">
 					<ul class="contacts__list">

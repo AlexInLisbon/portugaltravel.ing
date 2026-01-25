@@ -22,8 +22,114 @@
 	margin-bottom: 35px;
 }
 .title {
-	color: #3388DE;
+	color: #64AFFF;
 }
+/*___________ form start___________*/
+.form__box {
+	max-width: 900px;
+	width: 100%;
+	padding: 30px 10px;
+	border: 1px solid #64AFFF;
+	box-shadow: 0px 3px 5px rgba(100, 175, 255, 0.3);
+	border-radius: 15px;
+
+	margin-bottom: 30px;
+}
+.form__box form {
+	display: flex;
+	flex-direction: column;
+	gap: 15px;
+	width: 80%;
+	margin: 0 auto; /* по центру блока */
+}
+
+.form__row {
+	display: flex;
+	gap: 20px;
+	/* flex-wrap: wrap; */
+	flex-wrap: nowrap;
+}
+
+.form__col {
+	display: flex;
+	flex-direction: column;
+	gap: 12px;
+	flex: 1; /* одинаковая ширина колонок */
+	min-width: 200px; /* минимальная ширина столбца */
+}
+
+.form__box label {
+	font-weight: 500;
+	font-size: 18px;
+	color: #64AFFF;
+}
+
+.form__box input,
+.form__box textarea {
+	padding: 10px 12px;
+	border: 2px solid #a5cdf8;
+	border-radius: 10px;
+	font-size: 16px;
+	font-family: 'Roboto', sans-serif;
+	outline: none;
+	transition: all 0.3s ease;
+	box-sizing: border-box;
+}
+
+.form__box input:focus,
+.form__box textarea:focus {
+	border-color: #3388DE;
+	box-shadow: 0 0 5px rgba(51, 136, 222, 0.4);
+}
+
+.form__box input[type="text"],
+.form__box input[type="email"],
+.form__box input[type="tel"],
+.form__box input[type="date"],
+.form__box input[type="number"] {
+	width: 100%; /* занимают всю ширину своей колонки */
+}
+
+.form__box textarea {
+	width: 100%; /* текстовое поле на всю ширину формы */
+	resize: vertical;
+	min-height: 80px;
+}
+
+.form__box button[type="submit"] {
+	background-color: #64AFFF;
+	color: #fff;
+	font-size: 18px;
+	font-weight: 500;
+	padding: 12px 20px;
+	border: none;
+	border-radius: 12px;
+	cursor: pointer;
+	transition: all 0.3s ease;
+	align-self: center; /* кнопка по центру */
+}
+
+@media (any-hover: hover) {
+	.form__box button[type="submit"]:hover {
+		background-color: #3388DE;
+	}
+}
+
+/* ===== Адаптив ===== */
+@media (max-width: 768px) {
+	.form__box form {
+		width: 95%; /* почти весь блок на мобилках */
+	}
+
+	.form__row {
+		flex-direction: column; /* один столбец на мобильных */
+	}
+
+	.form__col {
+		width: 100%;
+	}
+}
+/*___________ form end___________*/
 .contacts__wrapper {
 	margin-bottom: 35px;
 }
