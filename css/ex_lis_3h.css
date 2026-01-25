@@ -228,6 +228,8 @@
 	gap: 12px;
 	flex: 1; /* одинаковая ширина колонок */
 	min-width: 200px; /* минимальная ширина столбца */
+
+	overflow: hidden;
 }
 
 .form__box label {
