@@ -161,6 +161,47 @@
 						</ul>
 					</div>
 				</div>
+												<!-- booking form start -->
+				<div class="exc-descript__box form__box">
+					<h3 class="exc-descript__subtitle">Замовити екскурсію або отримати відповіді на питання</h3>
+
+					<form action="https://formspree.io/f/xaqowqek" method="POST">
+						<!-- защита от ботов (honeypot) -->
+						<input type="text" name="company" style="display:none">
+						<!-- скрытое поле с названием экскурсии -->
+						<input type="hidden" name="tour" value="Лісабон 3 години">
+						<!-- возвращение на мой сайт после отправки формы -->
+						<input type="hidden" name="_next" value="https://portugaltravel.ing/thanks.html">
+
+						<!-- Два столбца -->
+						<div class="form__row">
+							<div class="form__col">
+								<label for="name">Ім'я:</label>
+								<input id="name" type="text" name="name" required>
+
+								<label for="email">Email:</label>
+								<input id="email" type="email" name="email" required>
+
+								<label for="phone">Телефон у WhatsApp / Telegram:</label>
+								<input id="phone" type="tel" name="phone" placeholder="+999 999 999 999" pattern="[\d\s()+-]{6,20}" required>
+							</div>
+
+							<div class="form__col">
+								<label for="date">Бажана дата:</label>
+								<input id="date" type="date" name="date" required>
+
+								<label for="people">Кількість мандрівників:</label>
+								<input id="people" type="number" name="people" min="1" required>
+							</div>
+						</div>
+
+						<label for="message">Ваше повідомлення:</label>
+						<textarea id="message" name="message" rows="4"></textarea>
+
+						<button type="submit">Надіслати запит</button>
+					</form>
+				</div>
+				<!-- booking form end -->
 			</section>
 		</main>
 		<!-- __________________________main_________________________________ -->
