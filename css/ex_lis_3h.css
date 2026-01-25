@@ -228,14 +228,16 @@
 	gap: 12px;
 	flex: 1; /* одинаковая ширина колонок */
 	min-width: 200px; /* минимальная ширина столбца */
-
-	overflow: hidden;
 }
 
 .form__box label {
 	font-weight: 500;
 	font-size: 18px;
 	color: #64AFFF;
+}
+
+.form__box input {
+	max-width: 100%;
 }
 
 .form__box input,
