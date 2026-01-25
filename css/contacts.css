@@ -64,10 +64,6 @@
 	color: #64AFFF;
 }
 
-.form__box input {
-	max-width: 100%;
-}
-
 .form__box input,
 .form__box textarea {
 	padding: 10px 12px;
@@ -132,6 +128,20 @@
 	.form__col {
 		width: 100%;
 	}
+}
+
+/* Фикс для iOS date input */
+.form__box input[type="date"] {
+	-webkit-appearance: none;
+	appearance: none;
+	background-color: #fff;
+	color: #333;
+	padding: 10px 12px;
+	border: 2px solid #a5cdf8;
+	border-radius: 10px;
+	font-size: 16px;
+	box-sizing: border-box;
+	width: 100%;
 }
 /*___________ form end___________*/
 .contacts__wrapper {
