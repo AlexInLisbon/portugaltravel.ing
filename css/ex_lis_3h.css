@@ -200,7 +200,7 @@
 }
 .exc-descript__box {
 	border-radius: 15px;
-	padding: 0 15px;
+	padding: 10px 15px;
 	background-color: rgb(51, 136, 222, 0.1);
 	box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.3);
 }
@@ -331,6 +331,7 @@
 }
 .exc-descript__par {
 	margin-bottom: 10px;
+	padding: 0px 0px;
 }
 .exc-descript__par {
 	text-indent: 1em;

@@ -1,13 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+    <!-- Главная -->
     <url>
         <loc>https://portugaltravel.ing/index.html</loc>
         <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
+        <priority>1.0</priority>
     </url>
+
+    <!-- Лиссабон 3 часа -->
     <url>
         <loc>https://portugaltravel.ing/ex_lis_3h.html</loc>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_lis_3h.html"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_lis_3h_ua.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_lis_3h.html"/>
     </url>
+
+    <!-- Белен -->
+    <url>
+        <loc>https://portugaltravel.ing/ex_belem.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_belem.html"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_belem_ua.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_belem.html"/>
+    </url>
+
+    <!-- Синтра -->
+    <url>
+        <loc>https://portugaltravel.ing/ex_sintra.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_sintra.html"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_sintra_ua.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_sintra.html"/>
+    </url>
+
+    <!-- Назаре и Баталья -->
+    <url>
+        <loc>https://portugaltravel.ing/ex_nazare.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_nazare.html"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_nazare_ua.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_nazare.html"/>
+    </url>
+
+    <!-- К океану -->
+    <url>
+        <loc>https://portugaltravel.ing/ex_ocean.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_ocean.html"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_ocean_ua.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_ocean.html"/>
+    </url>
+
+    <!-- Статуя Христа -->
+    <url>
+        <loc>https://portugaltravel.ing/ex_cristo.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_cristo.html"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_cristo_ua.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_cristo.html"/>
+    </url>
+
 </urlset>
