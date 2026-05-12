@@ -264,10 +264,10 @@
 .excursions__name--lc {
 	font-size: 13px;
 }
-.excursions__name--tbn {
-	/* font-size: 16px; */
-	/* background-position: 75% 50%; */
-}
+/* .excursions__name--tbn {
+	font-size: 16px;
+	background-position: 75% 50%;
+} */
 @media (any-hover: hover) {
 	.excursions__name:hover {
 		scale: 1.01;
