@@ -1,125 +1,255 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
-    <!-- Главная -->
-    <url>
-        <loc>https://portugaltravel.ing/index.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/index.html"/>
-        <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/index_ua.html"/>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/index.html"/>
-    </url>
-
-    <!-- Лиссабон 3 часа -->
-    <url>
-        <loc>https://portugaltravel.ing/ex_lis_3h.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_lis_3h.html"/>
-        <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_lis_3h_ua.html"/>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_lis_3h.html"/>
-    </url>
-
-    <!-- Лиссабон 7 часов -->
-    <url>
-        <loc>https://portugaltravel.ing/ex_lis_7h.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_lis_7h.html"/>
-        <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_lis_7h_ua.html"/>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_lis_7h.html"/>
-    </url>
-
-    <!-- Лиссабон + Статуя Христа -->
-    <url>
-        <loc>https://portugaltravel.ing/ex_lis_christ.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_lis_christ.html"/>
-        <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_lis_christ_ua.html"/>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_lis_christ.html"/>
-    </url>
-
-    <!-- Лиссабон + Синтра 1 -->
-    <url>
-        <loc>https://portugaltravel.ing/ex_lis_sintra_1.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_lis_sintra_1.html"/>
-        <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_lis_sintra_1_ua.html"/>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_lis_sintra_1.html"/>
-    </url>
-
-    <!-- Лиссабон + Синтра 2 -->
-    <url>
-        <loc>https://portugaltravel.ing/ex_lis_sintra_2.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_lis_sintra_2.html"/>
-        <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_lis_sintra_2_ua.html"/>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_lis_sintra_2.html"/>
-    </url>
-
-    <!-- Синтра 4 часа -->
-    <url>
-        <loc>https://portugaltravel.ing/ex_sintra_4h.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_sintra_4h.html"/>
-        <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_sintra_4h_ua.html"/>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_sintra_4h.html"/>
-    </url>
-
-    <!-- Синтра 7 часов -->
-    <url>
-        <loc>https://portugaltravel.ing/ex_sintra_7h.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_sintra_7h.html"/>
-        <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_sintra_7h_ua.html"/>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_sintra_7h.html"/>
-    </url>
-
-    <!-- К океану -->
-    <url>
-        <loc>https://portugaltravel.ing/ex_ocean.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_ocean.html"/>
-        <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_ocean_ua.html"/>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_ocean.html"/>
-    </url>
-
-    <!-- Порту 3 часа -->
-    <url>
-        <loc>https://portugaltravel.ing/ex_porto_3h.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_porto_3h.html"/>
-        <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_porto_3h_ua.html"/>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_porto_3h.html"/>
-    </url>
-
-    <!-- Отзывы -->
-    <url>
-        <loc>https://portugaltravel.ing/reviews.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/reviews.html"/>
-        <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/reviews_ua.html"/>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/reviews.html"/>
-    </url>
-
-    <!-- Контакты -->
-    <url>
-        <loc>https://portugaltravel.ing/contacts.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/contacts.html"/>
-        <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/contacts_ua.html"/>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/contacts.html"/>
-    </url>
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://portugaltravel.ing/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/index_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/index_ua.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/index_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/ex_lis_3h.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_lis_3h.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_lis_3h_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_lis_3h.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/ex_lis_3h_ua.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_lis_3h.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_lis_3h_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_lis_3h.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/excursion-lisbon-2-hours.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/excursion-lisbon-2-hours.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/excursion-lisbon-2-hours-ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/excursion-lisbon-2-hours.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/excursion-lisbon-2-hours-ua.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/excursion-lisbon-2-hours.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/excursion-lisbon-2-hours-ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/excursion-lisbon-2-hours.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/ex_lis_7h.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_lis_7h.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_lis_7h_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_lis_7h.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/ex_lis_7h_ua.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_lis_7h.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_lis_7h_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_lis_7h.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/ex_lis_christ.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_lis_christ.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_lis_christ_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_lis_christ.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/ex_lis_christ_ua.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_lis_christ.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_lis_christ_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_lis_christ.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/ex_belem.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_belem.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_belem_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_belem.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/ex_belem_ua.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_belem.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_belem_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_belem.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/excursion_lisbon_and_cabo_da_roca.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/excursion_lisbon_and_cabo_da_roca.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/excursion_lisbon_and_cabo_da_roca_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/excursion_lisbon_and_cabo_da_roca.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/excursion_lisbon_and_cabo_da_roca_ua.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/excursion_lisbon_and_cabo_da_roca.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/excursion_lisbon_and_cabo_da_roca_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/excursion_lisbon_and_cabo_da_roca.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/ex_ocean.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_ocean.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_ocean_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_ocean.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/ex_ocean_ua.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_ocean.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_ocean_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_ocean.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/ex_sintra_4h.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_sintra_4h.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_sintra_4h_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_sintra_4h.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/ex_sintra_4h_ua.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_sintra_4h.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_sintra_4h_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_sintra_4h.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/ex_sintra_7h.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_sintra_7h.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_sintra_7h_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_sintra_7h.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/ex_sintra_7h_ua.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_sintra_7h.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_sintra_7h_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_sintra_7h.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/sintra_roca.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/sintra_roca.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/sintra_roca_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/sintra_roca.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/sintra_roca_ua.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/sintra_roca.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/sintra_roca_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/sintra_roca.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/ex_lis_sintra_1.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_lis_sintra_1.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_lis_sintra_1_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_lis_sintra_1.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/ex_lis_sintra_1_ua.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_lis_sintra_1.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_lis_sintra_1_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_lis_sintra_1.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/ex_lis_sintra_2.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_lis_sintra_2.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_lis_sintra_2_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_lis_sintra_2.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/ex_lis_sintra_2_ua.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_lis_sintra_2.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_lis_sintra_2_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_lis_sintra_2.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/t_b_n.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/t_b_n.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/t_b_n_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/t_b_n.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/t_b_n_ua.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/t_b_n.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/t_b_n_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/t_b_n.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/ex_porto_3h.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_porto_3h.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_porto_3h_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_porto_3h.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/ex_porto_3h_ua.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/ex_porto_3h.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/ex_porto_3h_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/ex_porto_3h.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/excursions_lisbon.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/excursions_lisbon.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/excursions_lisbon_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/excursions_lisbon.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/excursions_lisbon_ua.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/excursions_lisbon.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/excursions_lisbon_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/excursions_lisbon.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/excursions_sintra.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/excursions_sintra.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/excursions_sintra_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/excursions_sintra.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/excursions_sintra_ua.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/excursions_sintra.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/excursions_sintra_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/excursions_sintra.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/reviews.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/reviews_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/reviews.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/reviews_ua.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/reviews_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/reviews.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/about_me.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/about_me.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/about_me_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/about_me.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/about_me_ua.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/about_me.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/about_me_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/about_me.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/contacts.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/contacts.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/contacts_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/contacts.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/contacts_ua.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/contacts.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/contacts_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/contacts.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/articles/food/pastel-de-nata.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/articles/food/pastel-de-nata.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/articles/food/pastel-de-nata-ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/articles/food/pastel-de-nata.html"/>
+  </url>
+  <url>
+    <loc>https://portugaltravel.ing/articles/food/pastel-de-nata-ua.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://portugaltravel.ing/articles/food/pastel-de-nata.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://portugaltravel.ing/articles/food/pastel-de-nata-ua.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portugaltravel.ing/articles/food/pastel-de-nata.html"/>
+  </url>
 </urlset>
